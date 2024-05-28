@@ -1,0 +1,22 @@
+body.website-background {
+    background-color: #151515; 
+    color: #ffffff;
+}
+
+div.main-content {
+    display: flex;
+    align-items: center;
+}
+
+div.box-content {
+    background-color: #292929;
+    margin: 4px;
+    padding: 10px;
+
+    border: solid;
+    border-width: 2px;
+    border-radius: 2%;
+    border-color: #ffffff;
+
+    min-height: 600px;
+}
