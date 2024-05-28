@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "description": "",
+  "homepage": "https://<github-username>.github.io/<repo-name>/",
   "dependencies": {
     "bootstrap": "^5.3.3",
     "express": "^4.19.2"
